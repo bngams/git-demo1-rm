@@ -1,2 +1,2 @@
-Some changes from dev1
-Changes from dev2
+Some changes from dev1 on line 1
+Changes from dev2 on line 2
